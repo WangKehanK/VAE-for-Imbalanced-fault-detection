@@ -1,2 +1,4 @@
 
 data/pulsar_stars.csv
+data/plasmaetch.csv
+*.ipynb_checkpoints
